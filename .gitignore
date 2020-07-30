@@ -27,3 +27,9 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# bat scripts
+*.bat
+
+# others
+.env_file
